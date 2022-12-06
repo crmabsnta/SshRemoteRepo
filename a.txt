@@ -1,3 +1,4 @@
 this is a file  1.
 
 I added line 2 here.
+Added third line in the paragraph.
